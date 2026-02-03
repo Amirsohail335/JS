@@ -7,7 +7,7 @@
 
 // declare a variable 
 
-var firstName = "Harshit";
+var firstName = "Amir Sohail";
 
 // use a variable 
 console.log(firstName);
