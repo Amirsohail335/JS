@@ -14,6 +14,6 @@ console.log(firstName);
 
 // change value 
 
-firstName = "Mohit";
+firstName = "Taushif";
 
 console.log(firstName);
